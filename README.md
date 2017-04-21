@@ -1,1 +1,1 @@
-# slurp-http-get-soil-measures
+# slurp-http-get-devices
